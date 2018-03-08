@@ -1,0 +1,3 @@
+https://jsoup.org/cookbook/input/load-document-from-url
+https://stackoverflow.com/questions/14012282/are-all-queues-in-java-thread-safe
+https://maktoob.yahoo.com/?p=us
